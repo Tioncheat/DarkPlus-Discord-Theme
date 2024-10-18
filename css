@@ -132,9 +132,7 @@
   background-color: var(--darkplus-bg);
   color: var(--darkplus-sec);
 }
-.mention_edf32f {
-  background-color: #FF0000;
-}
+
 .mentioned_d5deea {
   background-color: rgba(var(--darkplus-sec), 0.1) !important;
 }
