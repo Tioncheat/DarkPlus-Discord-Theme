@@ -1468,7 +1468,7 @@ button[aria-label="Send a gift"] {
 }
 
 .searchBar_f0963d .searchBarComponent_f0963d {
-  background-color: var(--darkplus-sec);
+  background-color: #2a2a2a;
   color: var(--darkplus-bg);
   border-radius: 10px;
 }
