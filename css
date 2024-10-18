@@ -450,8 +450,8 @@ article.embedWrapper_b558d0.embedFlexGrow_b558d0.embedFull_b0068a.embed_b0068a.m
 
 .members_cbd271,
 .membersWrap_cbd271, .container_cbd271 {
-	min-width: 60px;
-	transition-duration: 500ms;
+	min-width: 80px;
+	transition-duration: 300ms;
 	transition-property: box-shadow, min-width, width;
 	width: 60px;
 	z-index: 10;
