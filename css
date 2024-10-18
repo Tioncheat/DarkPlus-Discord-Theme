@@ -816,10 +816,6 @@ button.button_adca65 {
   color: var(--darkplus-bg);
   font-weight: bold;
 }
-.iconBadge-3qSJIw {
-  background-color: #FF0000;
-  color: var(--darkplus-bg);
-}
 .label-2wRs_g {
   color: var(--darkplus-sec);
 }
@@ -998,10 +994,6 @@ button[aria-label="Send a gift"] {
 .header_e06857 {
   color: var(--darkplus-sec);
 }
-.iconBadge-3qSJIw.participating-1NvRVd {
-  background-color: #FF0000;
-}
-
 .botTagRegular_c89c9a {
   color: var(--darkplus-sec);
   background-color: var(--darkplus-bg2);
@@ -1539,14 +1531,6 @@ button[aria-label="Send a gift"] {
 
 .wrapper_f7e168 {
   background-color: var(--darkplus-bg2);
-}
-
-.iconBadge_fc4f04, 
-.iconBadge-3qSJIw, 
-.iconBadge-3qSJIw.participating-1NvRVd {
-  background-color: #FF0000 !important; /* Set to red */
-  color: var(--darkplus-bg) !important;
-  border-color: #FF0000 !important; /* Also set border to red if applicable */
 }
 
 .theme-dark .themed_fc4f04 {
