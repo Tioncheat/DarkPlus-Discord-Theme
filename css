@@ -143,9 +143,6 @@
   background-color: rgba(var(--darkplus-sec), 0.2) !important;
 }
 
-.iconBadge_fc4f04 {
-  background-color: #FF0000;
-}
 .container_b2ca13 .button_adca65:nth-child(1) .contents-3ca1mk path {
   fill: var(--darkplus-sec);
 }
@@ -1544,18 +1541,12 @@ button[aria-label="Send a gift"] {
   background-color: var(--darkplus-bg2);
 }
 
-.numberBadge_df8943, 
-.mentionsBar_eba0ba,
 .iconBadge_fc4f04, 
 .iconBadge-3qSJIw, 
 .iconBadge-3qSJIw.participating-1NvRVd {
   background-color: #FF0000 !important; /* Set to red */
   color: var(--darkplus-bg) !important;
   border-color: #FF0000 !important; /* Also set border to red if applicable */
-}
-
-.wrapper_f90abb[data-list-item-id="guildsnav___home"] .iconBadge-3qSJIw {
-  background-color: #FF0000 !important; /* Ensure overriding on specific icon badges */
 }
 
 .theme-dark .themed_fc4f04 {
