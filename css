@@ -359,8 +359,12 @@
 .childWrapper_a6ce15 path {
   fill: transparent;
 }
+
 .wrapper_f90abb[data-list-item-id="guildsnav___home"] .childWrapper_f90abb {
-  background: var(--darkplus-home-icon) center/cover no-repeat;
+  background-image: var(--darkplus-home-icon);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
   min-width: 50px;
   min-height: 50px;
 }
@@ -368,6 +372,7 @@
 .wrapper_f90abb[data-list-item-id="guildsnav___home"] .childWrapper_f90abb svg {
   display: none;
 }
+
 
 .anchor-1MIwyf.anchorUnderlineOnHover-2qPutX {
   color: var(--darkplus-links);
