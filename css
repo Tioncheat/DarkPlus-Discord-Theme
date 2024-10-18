@@ -1546,8 +1546,11 @@ button[aria-label="Send a gift"] {
   background-color: var(--darkplus-bg2);
 }
 
-.numberBadge_df8943, .mentionsBar_eba0ba {
-  background-color: var(--darkplus-sec) !important;
+.numberBadge_df8943, .mentionsBar_eba0ba,
+.iconBadge_fc4f04, 
+.iconBadge-3qSJIw, 
+.iconBadge-3qSJIw.participating-1NvRVd {
+  background-color: #FF0000 !important;
   color: var(--darkplus-bg) !important;
 }
 
