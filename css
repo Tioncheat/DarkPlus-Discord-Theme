@@ -146,7 +146,7 @@
 }
 
 .iconBadge_fc4f04 {
-  background-color: var(--darkplus-sec);
+  background-color: #FF0000;
 }
 .container_b2ca13 .button_adca65:nth-child(1) .contents-3ca1mk path {
   fill: var(--darkplus-sec);
@@ -822,7 +822,7 @@ button.button_adca65 {
   font-weight: bold;
 }
 .iconBadge-3qSJIw {
-  background-color: var(--darkplus-sec);
+  background-color: #FF0000;
   color: var(--darkplus-bg);
 }
 .label-2wRs_g {
@@ -1004,8 +1004,9 @@ button[aria-label="Send a gift"] {
   color: var(--darkplus-sec);
 }
 .iconBadge-3qSJIw.participating-1NvRVd {
-  background-color: var(--darkplus-sec);
+  background-color: #FF0000;
 }
+
 .botTagRegular_c89c9a {
   color: var(--darkplus-sec);
   background-color: var(--darkplus-bg2);
