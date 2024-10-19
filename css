@@ -1069,7 +1069,7 @@ button[aria-label="Send a gift"] {
 .theme-light .activeButton-LRWFC_,
 .theme-light .activeButton-LRWFC_:hover {
   color: var(--darkplus-bg);
-  background-color: var(--darkplus-sec);
+  background-color: var(--darkplus-bg2);
 }
 
 .hasBanner_fd6364 .header_fd6364,
