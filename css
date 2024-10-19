@@ -56,9 +56,7 @@
 .scroller_c47fa9.thin_eed6a8.scrollerBase-_bVAAt.fade-1R6FHN {
   background-color: var(--darkplus-bg);
 }
-.panel_bf1a22.activityPanel_a4d4d9 {
-  background-color: var(--darkplus-bg);
-}
+
 .container_b2ca13 {
   background-color: var(--darkplus-bg);
 }
@@ -87,9 +85,6 @@
 }
 .children_fc4f04:after {
   display: none;
-}
-.customStatusActivity-WKWGD- {
-  background-color: var(--darkplus-bg);
 }
 .nameTagWithCustomStatus-5c-v3-.nameTag-2Nlmsy.nameTag_cd0810 {
   background-color: var(--darkplus-bg);
@@ -639,14 +634,9 @@ article.embedWrapper_b558d0.embedFlexGrow_b558d0.embedFull_b0068a.embed_b0068a.m
 .header-S26rhB {
   background-color: var(--darkplus-bg);
 }
-.activity-2M3PRB {
-  background-color: var(--darkplus-bg);
-}
+
 .infoScroller-1QMpon.thin_eed6a8.scrollerBase-_bVAAt.fade-1R6FHN {
   background-color: var(--darkplus-bg2);
-}
-.activityHeader-2shpl0 {
-  color: var(--darkplus-bg);
 }
 .circleIconButton_db6521 {
   color: var(--darkplus-sec);
@@ -1134,9 +1124,6 @@ button[aria-label="Send a gift"] {
 .size14-3fJ-ot {
   color: var(--darkplus-sec);
 }
-.activity-1gTu-L {
-  background-color: var(--darkplus-bg);
-}
 .rolesList-3uZoaa {
   background-color: var(--darkplus-bg);
 }
@@ -1356,7 +1343,6 @@ button[aria-label="Send a gift"] {
 .peopleColumn_c2739c,
 .scroller_c47fa9,
 .searchBar_f0963d,
-.activityPanel_a4d4d9,
 .container_b2ca13,
 .scroller_e2e187 {
   background-color: var(--darkplus-bg);
@@ -1443,10 +1429,6 @@ button[aria-label="Send a gift"] {
 }
 
 .item-1OdjEX, .icon_ad923e, .userTagDiscriminatorNoNickname-2HLaIE {
-  color: var(--darkplus-sec);
-}
-
-.usernameContainer__22048, .activityText_a31c43, .activity-icon {
   color: var(--darkplus-sec);
 }
 
