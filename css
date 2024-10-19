@@ -759,8 +759,8 @@ button.button_adca65 {
   display: none;
 }
 .item_c2739c[aria-label="Add Friend"] {
-  color: var(--darkplus-bg) !important;
-  background-color: var(--darkplus-sec) !important;
+  color: var(--darkplus-links) !important;
+  background-color: var(--darkplus-bg) !important;
 }
 .addInputWrapper-1BOZ3d {
   background-color: var(--darkplus-bg);
