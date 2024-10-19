@@ -118,10 +118,7 @@
   background-color: var(--darkplus-sec);
   border: none;
 }
-.wrapper_cd82a7:hover,
-.wrapper_cd82a7.active_ac5d22 {
-  background-color: var(--darkplus-bg2) !important;
-}
+
 .wrapper_cd82a7 .inset_ac5d22 {
   background-color: var(--darkplus-bg);
 }
@@ -667,14 +664,6 @@ button.button_adca65 {
   color: var(--darkplus-sec);
 }
 
-.activeButtonChild_a06035, .theme-dark .button_a06035:hover .activeButtonChild_a06035 {
-  color: var(--darkplus-bg2);
-}
-
-.top-K_jibn .selected-g-kMVV.themed-2-lozF.item-3XjbnG,
-.top-K_jibn .themed-2-lozF.item-3XjbnG:active {
-  border-bottom-color: var(--darkplus-bg2);
-}
 .top-K_jibn .themed-2-lozF.item-3XjbnG:hover {
   border-bottom-color: var(--darkplus-links);
 }
@@ -959,10 +948,6 @@ button[aria-label="Send a gift"] {
   color: var(--darkplus-sec);
 }
 
-.navButtonActive_af5dbb {
-  background-color: var(--darkplus-bg);
-  color: var(--darkplus-bg2);
-}
 .navButton_af5dbb {
   color: var(--darkplus-sec);
 }
@@ -1064,14 +1049,6 @@ button[aria-label="Send a gift"] {
   color: var(--darkplus-sec);
 }
 
-.theme-dark .activeButton-LRWFC_,
-.theme-dark .activeButton-LRWFC_:hover,
-.theme-light .activeButton-LRWFC_,
-.theme-light .activeButton-LRWFC_:hover {
-  color: var(--darkplus-bg);
-  background-color: var(--darkplus-bg2);
-}
-
 .hasBanner_fd6364 .header_fd6364,
 .hasBanner_fd6364 .header_fd6364:hover {
   background-color: var(--darkplus-bg);
@@ -1087,12 +1064,6 @@ button[aria-label="Send a gift"] {
   color: var(--darkplus-bg);
 }
 
-.theme-dark .header_f0cd33 .tabBar_f0cd33 .tab_f0cd33.active_f0cd33 {
-  background-color: var(--darkplus-bg2);
-}
-.theme-dark .header_f0cd33 .tabBar_f0cd33 .tab_f0cd33.active_f0cd33 {
-  color: var(--darkplus-sec);
-}
 .messages_c06487 {
   background-color: var(--darkplus-bg2);
 }
@@ -1541,10 +1512,6 @@ button[aria-label="Send a gift"] {
 
 .full-motion .container_d331f1, .selected_f5eb4b {
   background-color: var(--darkplus-bg2);
-}
-
-.sprite_d91a75.spriteGreyscale_d91a75.active_d91a75 {
-  background: var(--darkplus-sec);
 }
 
 .button_dd4f85 .contents_dd4f85, .icon_a08117, .name_a08117 {
