@@ -120,7 +120,7 @@
 }
 .wrapper_cd82a7:hover,
 .wrapper_cd82a7.active_ac5d22 {
-  background-color: var(--darkplus-links) !important;
+  background-color: var(--darkplus-bg2) !important;
 }
 .wrapper_cd82a7 .inset_ac5d22 {
   background-color: var(--darkplus-bg);
@@ -668,12 +668,12 @@ button.button_adca65 {
 }
 
 .activeButtonChild_a06035, .theme-dark .button_a06035:hover .activeButtonChild_a06035 {
-  color: var(--darkplus-sec);
+  color: var(--darkplus-bg2);
 }
 
 .top-K_jibn .selected-g-kMVV.themed-2-lozF.item-3XjbnG,
 .top-K_jibn .themed-2-lozF.item-3XjbnG:active {
-  border-bottom-color: var(--darkplus-sec);
+  border-bottom-color: var(--darkplus-bg2);
 }
 .top-K_jibn .themed-2-lozF.item-3XjbnG:hover {
   border-bottom-color: var(--darkplus-links);
@@ -961,7 +961,7 @@ button[aria-label="Send a gift"] {
 
 .navButtonActive_af5dbb {
   background-color: var(--darkplus-bg);
-  color: var(--darkplus-sec);
+  color: var(--darkplus-bg2);
 }
 .navButton_af5dbb {
   color: var(--darkplus-sec);
