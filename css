@@ -249,6 +249,12 @@
   background-color: var(--darkplus-bg2);
   color: var(--darkplus-sec);
 }
+.emptyRoles-35rHsg {
+  color: var(--darkplus-sec);
+}
+.emptyRolesText-30nyzO {
+  color: var(--darkplus-sec);
+}
 .scroller_ad8f79 {
   background-color: var(--darkplus-bg);
 }
@@ -939,9 +945,6 @@ button[aria-label="Send a gift"] {
 }
 .navButton_af5dbb:hover {
   color: var(--darkplus-links);
-}
-.colorStandard-21JIj7 {
-  color: var(--darkplus-sec);
 }
 .unicodeShortcut_dfa278 {
   color: var(--darkplus-sec);
